@@ -2,3 +2,7 @@ gcdn.2mdn.net
 rb.adnxs-simple.com
 crcdn09.adnxs-simple.com
 freewheel-nl.prd.talpatvcdn.nl
+a1956.dscb.akamai.net
+akamai.net
+akamaiedge.net
+e673.dsce9.akamaiedge.net
