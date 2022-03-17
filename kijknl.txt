@@ -10,3 +10,9 @@ freewheel-direct-nl.prd.talpatvcdn.nl
 s1.adform.net
 ec2-nl.prd.talpatvcdn.nl
 ads-talpa.adhese.com
+l2c-kijk2-prod.talpatvcdn.nl
+ofa-prod-1.talpatvcdn.nl
+ec2-nl.prd.talpatvcdn.nl
+vod-bc-prod-1.talpatvcdn.nl
+vod-tpc-dev-origin.talpatvcdn.nl
+vod-tpc-prod-1.talpatvcdn.nl
