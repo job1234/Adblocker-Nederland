@@ -7,3 +7,4 @@ akamai.net
 akamaiedge.net
 e673.dsce9.akamaiedge.net
 freewheel-direct-nl.prd.talpatvcdn.nl
+s1.adform.net
