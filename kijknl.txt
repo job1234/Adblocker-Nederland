@@ -16,3 +16,7 @@ ec2-nl.prd.talpatvcdn.nl
 vod-bc-prod-1.talpatvcdn.nl
 vod-tpc-dev-origin.talpatvcdn.nl
 vod-tpc-prod-1.talpatvcdn.nl
+ib.adnxs.com
+ib.anycast.adnxs.com
+fra1-ib.adnxs.com
+*.adnxs.com
