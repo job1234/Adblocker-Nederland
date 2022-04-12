@@ -28,3 +28,5 @@ freewheelads.prd1.talpatvcdn.nl
 stickyadstv.com.edgekey.net
 edgekey.net
 e11676.b.akamaiedge.net
+talpaads.prd1.talpatvcdn.nl
+talpaads.prd.talpatvcdn.nl
